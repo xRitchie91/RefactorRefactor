@@ -6,7 +6,7 @@ RefactorRefactor is a code refactoring project for a marketing agency. The purpo
 ## Table of Contents
 - [Description](#Description)
 - [Images](#Images)
-- [Deployed Application](#Deployement)
+- [Deployed Application](#Deployment)
 - [Reachout](#Questions)
 
 ## Images
