@@ -4,10 +4,10 @@
 RefactorRefactor is a code refactoring project for a marketing agency. The purpose of this project is to optimize their webiste to follow accessibility standards to optimize their site for search engines.
 
 ## Table of Contents
-[Description](#Description)
-[Images](#Images)
-[Deployed Application](#Deployement)
-[Reachout](#Questions)
+- [Description](#Description)
+- [Images](#Images)
+- [Deployed Application](#Deployement)
+- [Reachout](#Questions)
 
 ## Images
 ![RefactorReactor1](https://user-images.githubusercontent.com/74946954/124247099-2cde5180-dae7-11eb-9383-09b0fc4858b5.png)
