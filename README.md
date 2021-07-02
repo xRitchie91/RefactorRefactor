@@ -1,7 +1,7 @@
 # RefactorRefactor
 
 ## Description
-RefactorRefactor is a code refactoring project.
+RefactorRefactor is a code refactoring project for a marketing agency. The purpose of this project is to optimize their webiste to follow accessibility standards to optimize their site for search engines.
 
 ## Table of Contents
 [Description](#Description)
